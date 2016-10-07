@@ -1,7 +1,6 @@
 
 #AA-ORDERS (Narudžbe)#
 http://admin.strize.codelofts.com/DEVELOPER/HTML_Full_Version/AA-orders.html
-//////////////////////////////////////////////////////////////////
 
 * Izbornici
 
@@ -102,7 +101,7 @@ Napomena: NAČIN PLAĆANJA se može mijenjati jedino ako je način "VIRMANOM NA 
 
 # AA-ORDERS-SUPPLIERS (Naručeno) #
 http://admin.strize.codelofts.com/DEVELOPER/HTML_Full_Version/AA-orders-suppliers.html
-//////////////////////////////////////////////////////////////////
+
 
 Na ovoj stranici se prikazuju sve narudžbe koje imaju status “Naručeno”. Prikaz je slican onome na stranici “Narudžbe”.
 
@@ -161,7 +160,7 @@ U donjem dijelu se nalaze podaci jednaki kao i kod stranice “Narudžbe”, uz 
 
 # AA-ORDERS-DETAILS (Detalji narudžbe) #
 http://admin.strize.codelofts.com/DEVELOPER/HTML_Full_Version/AA-orders-details.html
-//////////////////////////////////////////////////////////////////
+
 
 Template sluzi za detaljan prikaz svake narudžbe. Aktivira se nakon klika na botun “Uredi” u prethodnom prikazu (“Naručeno”).
 
@@ -197,7 +196,7 @@ U drugoj tablici su prikazan podaci po jednakoj logici kao i na prethodnom ekran
 
 # AA-MODELS-BATCH (Grupno uređivanje modela) #
 http://admin.strize.codelofts.com/DEVELOPER/HTML_Full_Version/AA-models-batch.html
-//////////////////////////////////////////////////////////////////
+
 
 Template sluzi za masovno (batch) uredivanje modela
 
