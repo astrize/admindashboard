@@ -1,5 +1,5 @@
-//////////////////////////////////////
-AA-ORDERS (Narudžbe)
+
+#AA-ORDERS (Narudžbe)#
 http://admin.strize.codelofts.com/DEVELOPER/HTML_Full_Version/AA-orders.html
 //////////////////////////////////////////////////////////////////
 
@@ -100,8 +100,7 @@ Napomena: NAČIN PLAĆANJA se može mijenjati jedino ako je način "VIRMANOM NA 
 
 
 
-//////////////////////////////////////////////////////////////////
-AA-ORDERS-SUPPLIERS (Naručeno)
+# AA-ORDERS-SUPPLIERS (Naručeno) #
 http://admin.strize.codelofts.com/DEVELOPER/HTML_Full_Version/AA-orders-suppliers.html
 //////////////////////////////////////////////////////////////////
 
@@ -160,8 +159,7 @@ U donjem dijelu se nalaze podaci jednaki kao i kod stranice “Narudžbe”, uz 
 
 
 
-//////////////////////////////////////////////////////////////////
-AA-ORDERS-DETAILS (Detalji narudžbe)
+# AA-ORDERS-DETAILS (Detalji narudžbe) #
 http://admin.strize.codelofts.com/DEVELOPER/HTML_Full_Version/AA-orders-details.html
 //////////////////////////////////////////////////////////////////
 
@@ -197,8 +195,7 @@ Prilikom oznacavanja checkboxa automatski se izracunava nova ukupna cijena na dn
 U drugoj tablici su prikazan podaci po jednakoj logici kao i na prethodnom ekranu (“Naruceno”) te ih se moze kopirati.
 
 
-//////////////////////////////////////////////////////////////////
-AA-MODELS-BATCH (Grupno uređivanje modela)
+# AA-MODELS-BATCH (Grupno uređivanje modela) #
 http://admin.strize.codelofts.com/DEVELOPER/HTML_Full_Version/AA-models-batch.html
 //////////////////////////////////////////////////////////////////
 
